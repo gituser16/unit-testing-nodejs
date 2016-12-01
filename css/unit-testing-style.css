@@ -1,0 +1,86 @@
+body {
+	font-family: Arial, Sans-serif;
+}
+
+.subtitle {
+	font-weight: bold;
+	font-size: 1.2em;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.read-bold {
+	color: red;
+	font-weight: bold;
+}
+
+.blue {
+	color: #0099cc;
+}
+
+.blue-bold {
+	color: #0099cc;
+	font-weight: bold;
+}
+
+.paragraph {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 20px;
+}
+
+.acronym-group {
+	font-size: 1.5em;
+	padding-left: 50px;
+}
+
+.acronym {
+	width: 24px;	
+	background-color: #babdc1;
+	float: left;
+	text-align: center;
+}
+
+.acronym-meaning {
+	position: relative;
+	padding-left: 30px;
+}
+
+.list-none-style {
+	list-style-type: none;
+}
+
+.list-lower-roman {
+	list-style-type: lower-roman;
+}
+
+.marquee {
+	margin: 15px 0px 15px 50px;
+	background-color: #babdc1;
+	padding: 15px 15px 15px 15px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0099cc;	
+}
+
+.code {
+	margin: 15px 0px 15px 50px;
+	background-color: #babdc1;
+	padding: 20px 0px 5px 5px;
+	border-left: 3px;
+	border-left-style: solid;
+	border-left-color: #0099cc;	
+}
+
+.center {	
+	margin: auto;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+img {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}

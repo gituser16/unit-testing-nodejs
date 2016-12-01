@@ -1,0 +1,17 @@
+# Compiled source #
+#############################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Project file #
+#############################
+*.sublime-project
+
+# Build and Release Folders #
+#############################
+[Bb]in/
+[Oo]bj/

@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"student",
+				"studentGrade"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border-spacing"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"product",
+				"products"
+			],
+			[
+				"review",
+				"reviewCtrl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/projects/javascript-unit-test/mocha-chai/BUSINESS-LOGIC/test/courseTests.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/test/isEven-add-test.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/gulp/gulpfile.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/BUSINESS-LOGIC/test/studentTests.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/BUSINESS-LOGIC/test/Course.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/sinon/test/studentTests.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/sinon/test/sinonTests.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/test/sinonTests.js",
+		"/C/dev/projects/javascript-unit-test/mocha-chai/test.js",
+		"/C/dev/projects/Codility/README.md",
+		"/C/dev/projects/javascript-pluralsight/index.html",
+		"/C/dev/projects/javascript-pluralsight/Div.js",
+		"/C/dev/projects/javascript-effective/SharedPrototype.js",
+		"/C/dev/projects/javascript-effective/index.html",
+		"/C/dev/projects/angular-first-learning/app.js",
+		"/C/dev/projects/angular-first-learning/index.html",
+		"/C/dev/projects/Angular_Training/index.html",
+		"/C/dev/projects/Angular_Training/app.js",
+		"/C/dev/projects/angular-first-learning/dependency-injection.js",
+		"/C/dev/projects/Angular_Training/product.js",
+		"/C/dev/projects/Angular_Training/product-title.html",
+		"/C/dev/projects/angular-quickstart/index.html",
+		"/C/dev/projects/angular-note-wrangler/javascript/controllers/notes-create-controller.js",
+		"/C/dev/projects/angular-note-wrangler/javascript/routes.js",
+		"/C/dev/projects/angular-note-wrangler/index.html",
+		"/C/dev/projects/angular-note-wrangler/javascript/app.js",
+		"/C/dev/projects/angular-note-wrangler/templates/pages/notes/index.html",
+		"/C/dev/projects/angular-note-wrangler/notes-index.html",
+		"/C/dev/projects/angular-note-wrangler/users-index.html",
+		"/C/dev/projects/angular-note-wrangler/javascript/filters.js",
+		"/C/dev/projects/angular-note-wrangler/javascript/directives.js",
+		"/C/dev/projects/angular-note-wrangler/javascript/controllers.js",
+		"/C/dev/projects/angular-note-wrangler/javascript/services.js",
+		"/C/dev/projects/Angular_Training/product-gallery.html",
+		"/C/dev/projects/Angular_Training/products.json",
+		"/C/dev/projects/Angular_Training/product-panels.html",
+		"/C/dev/projects/Angular_Training/bootstrap/css/bootstrap.css",
+		"/C/dev/projects/Angular_Training/index1.html",
+		"/C/dev/projects/Angular_Training/index"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"options",
+			"Team",
+			"The $http service is a core Angular service",
+			"$HttpProvider",
+			"$http",
+			"'images",
+			"createdOn",
+			"author",
+			"body",
+			"stars",
+			"price",
+			"panel.",
+			"ng-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"images",
+			"\"createdOn\"",
+			"\"author\"",
+			"\"body\"",
+			"\"stars\"",
+			"\"price\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "unit-testing-node.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
