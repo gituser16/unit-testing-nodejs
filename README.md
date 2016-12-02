@@ -9,9 +9,9 @@ Unit Testing is essential part of the Agile Methodologies. In these methodologie
 * Exceptions are documented
 * Helps in the design process
 
-Unit Tests are written based on the criteria that becomes in the design contract for the method. This design contract can be updated during the Software Development Life Cycle (SDLC). The Unit Test should run either when the design contract is affected or the method is refactored in order to fix issues, improve performance or meet new requirements.
+Unit Tests are written based on the criteria that becomes in the design contract for the method. This design contract can be updated during the Software Development Life Cycle (SDLC). The Unit Test should run either when the design contract is affected or the method is refactored in order to fix issues, improve performance, meet new requirements, and so on.
 
-Unit Tests helps a lot to keep individuals modules working, to communicate changes in business rules, to avoid breaking the module, to avoid re-work, to save time in regression testing or integration testing. Helps other developer to communicate what the method does.
+Unit Tests help a lot to keep individuals modules working, to communicate changes in business rules, to avoid breaking the module, to avoid re-work, to save time in regression testing or integration testing, help other developer to communicate what the method does.
 
 <b>Good qualities of Unit Tests</b>
 
@@ -34,13 +34,13 @@ Unit Tests should follow the acronym FIRST. <b>FIRST</b> was created by Tim Otti
 
 <b>Repeatable:</b> Unit Tests should no depend on initial states, for example if the method depends on a database connection and if the database is not available by the time the Unit Test is run, that will cause the test to fail, in those conditions the Unit Test is not repeatable. In general, Unit Tests should no depends on external services, networks, connections or systems.
 
-<b>Self-validating:</b> no manual evaluation or interpretation are required. An error should be thrown when the test has not passed, so, the test does not depend on manual inspection or data arrangement.
+<b>Self-validating:</b> No manual evaluation or interpretation are required. An error should be thrown when the test has not passed, so, the test does not depend on manual inspection or data arrangement.
 
-<b>Timely:</b> Wright the Unit Test to meet the requirements or criteria before to implement the method that will be evaluated, would be ideal in the SDLC, but most of the time this is not possible, since at the beginning of the process we do not have all the information needed, so we need to start with the information gathered so far and work iteratively. We can start by writing simple statements for our Unit Tests, wright the method to meet those statements, get more information (if needed), add the statements needed for the Unit Tests and update the method, repeat this process until business rules are met.
+<b>Timely:</b> It is a good practice, wright all the Unit Tests to meet the requirements or criteria before to implement the method.  The Unit Tests should be updated or added each time business rules are changed, issues are found, features are added or whatever else.
 
 <b>Example</b>
 
-Imagine in a hypothetic situation that you are given the following problem:
+Imagine in a hypothetical situation that you are given the following problem:
 <pre>
   Find the sum of all different <b>multiples</b> for <b>a</b> and <b>b</b> that are below <b>p</b>, where:
   
