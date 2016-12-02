@@ -71,7 +71,7 @@ If we list the multiples of 2 and 3 that are below 10 we have
 
 We need to remove one of the 6s since they are repeated and get the sum.
 
-Since this is about Node.js, we are going to use JavaScript to write the method that will pass our Unit Tests, you can download the code for this example by clicking <a href="https://github.com/serodya/unit-testing-nodejs.git">here</a>. Below is the first version of the method sum():
+Since this is about Node.js, we are going to use JavaScript to write the method that will pass our Unit Tests, you can download the code for this example by clicking <a href="https://github.com/serodya/unit-testing-nodejs/archive/master.zip">here</a>. Below is the first version of the method sum():
 
 <pre>
     'use strict';
